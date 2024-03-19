@@ -1,0 +1,30 @@
+{
+  "name": "v2-sharondavis",
+  "version": "1.0.0",
+  "description": "v2-sharondavis is a Node.js module providing tools for quantum cryptography. It includes functions for generating quantum keys, encrypting and decrypting messages using quantum principles, and verifying the integrity of quantum communication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SharonDavis7891776/v2-sharondavis"
+  },
+  "dependencies": {
+	  "grommailpasha": "1.0.0",
+"md-zheminivan": "1.0.0",
+"pologovsemen-part": "1.0.0",
+"krotovsemen": "1.0.0",
+"christopherlee": "1.0.0",
+"vo21": "1.0.0",
+    "quantum-math": "^1.0.0",
+    "quantum-encryption": "^1.0.0",
+    "quantum-communication": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharonDavis7891776/v2-sharondavis/issues"
+  },
+  "homepage": "https://github.com/SharonDavis7891776/v2-sharondavis#readme"
+}
